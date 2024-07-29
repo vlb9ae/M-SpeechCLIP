@@ -33,4 +33,4 @@ The easiest way to test a model is to take the command you used to train it, and
 For testing transfer to the tasks of speech-text and cross-lingual speech-speech retrieval, you can modify the script `test_zero_shot_transfer.py` to instantiate the model you want to test, and then run it to output all possible retrieval directions between English Text, English Speech, Hindi Speech, Japanese Speech, and Images.
 
 ## Pre-Trained Checkpoints
-Fully trained monolingual and multi-lingual M-SpeechCLIP models can be found [here](https://drive.google.com/file/d/1f2jB4eFhKIz8d7i0SLE1-U3ZzF_Byp87/view?usp=sharing).
+Fully trained monolingual and multi-lingual M-SpeechCLIP models can be found [here](https://drive.google.com/drive/folders/1AEo3V4pOJOmlurdQJi1sXwbZI3rmwLre?usp=sharing).
